@@ -1,0 +1,19 @@
+Elements that does'nt need a closing tag is a - VoidElement
+
+<Input> element is a void element.
+
+
+.thumbnail{
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+	object-fit: contain;
+	object-position: right;
+	object-position: left;
+	object-position: top;
+	object-position: bottom;
+	border-width: 2px;
+	border-style: solid;
+	border-color: red;
+	
+}

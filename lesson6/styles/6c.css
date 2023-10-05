@@ -1,0 +1,24 @@
+P{
+  font-family: Arial;
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.account-name-tag{
+  margin-bottom: 5px;
+}
+.account-name{
+  font-weight: bold;
+}
+.tag-account{
+  color: gray;
+  
+}
+.content{
+  margin-bottom: 20px;
+  width: 600px;
+  line-height: 25px;
+}
+.tag{
+  color: rgb(29, 155, 240);
+}
